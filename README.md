@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
