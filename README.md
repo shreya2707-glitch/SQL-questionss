@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -125,4 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
