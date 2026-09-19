@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0622-design-circular-queue](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0704-binary-search) |
 ## Hash Table
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0844-backspace-string-compare) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
