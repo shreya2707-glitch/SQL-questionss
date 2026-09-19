@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0141-linked-list-cycle) |
+| [0844-backspace-string-compare](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -85,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
