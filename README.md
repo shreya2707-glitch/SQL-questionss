@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0409-longest-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0733-flood-fill) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
