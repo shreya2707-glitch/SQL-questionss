@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0704-binary-search) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
