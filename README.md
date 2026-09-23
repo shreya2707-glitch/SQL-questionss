@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1661-average-time-of-process-per-machine](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
