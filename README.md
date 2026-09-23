@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1148-article-views-i) |
+| [1164-product-price-at-a-given-date](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1164-product-price-at-a-given-date) |
 | [1280-students-and-examinations](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/1661-average-time-of-process-per-machine) |
