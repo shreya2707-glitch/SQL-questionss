@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0409-longest-palindrome) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0387-first-unique-character-in-a-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
