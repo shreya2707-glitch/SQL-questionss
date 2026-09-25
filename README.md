@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0409-longest-palindrome) |
 ## Two Pointers
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0273-integer-to-english-words) |
+| [0383-ransom-note](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0844-backspace-string-compare) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0387-first-unique-character-in-a-string) |
 ## Breadth-First Search
 |  |
