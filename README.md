@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0383-ransom-note) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0844-backspace-string-compare) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0070-climbing-stairs) |
+| [0227-basic-calculator-ii](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0273-integer-to-english-words) |
 ## Bit Manipulation
 |  |
