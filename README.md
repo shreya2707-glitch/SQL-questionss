@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0409-longest-palindrome) |
+| [0721-accounts-merge](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0721-accounts-merge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0409-longest-palindrome) |
+| [0721-accounts-merge](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0242-valid-anagram) |
+| [0721-accounts-merge](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0721-accounts-merge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0572-subtree-of-another-tree) |
+| [0721-accounts-merge](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0733-flood-fill) |
 ## DP on Trees
 |  |
@@ -219,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0733-flood-fill) |
 ## Greedy
 |  |
@@ -248,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0020-valid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
