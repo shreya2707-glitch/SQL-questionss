@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0242-valid-anagram) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0234-palindrome-linked-list) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0572-subtree-of-another-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
