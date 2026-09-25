@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0704-binary-search) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0338-counting-bits) |
