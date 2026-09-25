@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0206-reverse-linked-list) |
+| [0273-integer-to-english-words](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0273-integer-to-english-words) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0125-valid-palindrome) |
+| [0273-integer-to-english-words](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0844-backspace-string-compare) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0070-climbing-stairs) |
+| [0273-integer-to-english-words](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0273-integer-to-english-words) |
 ## Bit Manipulation
 |  |
 | ------- |
