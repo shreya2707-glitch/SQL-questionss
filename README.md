@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0217-contains-duplicate) |
+| [0542-01-matrix](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0733-flood-fill) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0733-flood-fill) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0733-flood-fill) |
 ## Greedy
 |  |
