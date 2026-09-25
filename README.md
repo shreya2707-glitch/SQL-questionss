@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0206-reverse-linked-list) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Tree
 |  |
@@ -181,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0409-longest-palindrome) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shreya2707-glitch/SQL-questionss/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
